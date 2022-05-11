@@ -6,4 +6,4 @@ prueba repositorio
 3.-Hacer comentarios en cada parte importante del código.
 4.-Tener en cuenta al momento de declarar variables.
 5.-Tener un inicio y un fin.
-7.-Estructurar la solucion del problema.
+7.-Estructurar la solucion del programa.
